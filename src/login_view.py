@@ -9,3 +9,16 @@ class LoginView:
 
     def transitionToHomeView(self, userProfile: UserProfile):
         pass
+
+    # UI readers:
+    def readUsernameTextbox(self):
+        pass
+
+    def readPasswordTextbox(self):
+        pass
+
+    def readEmailTextbox(self):
+        pass
+
+    def readNotificationPreferences(self):
+        pass
